@@ -1,5 +1,4 @@
-**Responsive Insurance Web**
-#Insurance Web Design
+# Responsive Insurance Web
 
 This web project was done during the Jitu software developer training.
 The project was done using pure HTML5 and CSS3 only.
